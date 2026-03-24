@@ -26,7 +26,10 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 ---
 
 ## 💻 Program
+<img width="307" height="378" alt="image" src="https://github.com/user-attachments/assets/2121d177-4e19-4971-856c-49a43f5bd0e4" />
 
 ## Output
+<img width="142" height="96" alt="image" src="https://github.com/user-attachments/assets/bc89719b-3466-471a-962b-ae18c6aaa700" />
 
 ## Result
+Thus, the program is successfully executed.
